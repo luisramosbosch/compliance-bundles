@@ -1,0 +1,67 @@
+LEI Data Terms of Use
+
+
+of the
+
+Global Legal Entity Identifier Foundation (GLEIF),
+St. Alban-Vorstadt 12, 4052 Basel, Switzerland
+ regarding the look-up and download of LEIs and LE-RD from this website by anyone.
+INTRODUCTION
+
+A. GLEIF is a not-for-profit foundation incorporated by the Financial Stability Board under the laws of Switzerland.
+
+B. GLEIF and its partnering Local Operating Units ("LOUs") operate a system of worldwide unique Legal Entity Identifiers ("LEI", "LEIs"), and GLEIF operates a Global LEI repository with certain additional information about the relevant legal entities ("Legal Entity Reference Data", "LE-RD").
+
+C. The website "http(s)://www.gleif.org" allows users to access LEIs and related LEI Reference Data. Any such access might use file downloads, access via Web Interfaces/APIs or by any other technical means, as provided in GLEIF's discretion. Any LEI data and LEI-RD access from http(s)://www.gleif.org is subject to the terms of use as set out herebelow (the "Terms of Use").
+I. DEFINITIONS
+
+"Access Service" shall mean the facility provided by GLEIF under these Terms of Use and further described below, provided on this website (http(s):www.gleif.org).
+
+"Global LEI Repository" shall mean the global resource of databases and file servers operated by GLEIF containing and providing all LEIs and LE-RD.
+
+"GLEIF Trademark and Logo" shall mean the trademark and logo of GLEIF as shown on http(s)://www.gleif.org.
+
+"GLEIS" shall mean the Global Legal Entity Identifier System operated by GLEIF and the LOUs.
+
+"LEIs" shall mean one or many Legal Entity Identifiers issued by GLEIF and the LOUs.
+
+"LEI Reference Data" and "LE-RD" (singular and plural) shall mean the information available in the Global LEI Repository in relation to an LEI. The categories of data currently included in the LE-RD are listed on Common Data File Format.
+
+"LOU" or "LOUs" shall mean the Local Operating Units who have entered into a Master Agreement with GLEIF and who are accredited by GLEIF to accept applications by legal entities for LEI and to issue LEIs. A list of the accredited LOUs can be found on Issue New LEI.
+
+"We", "us", "our" or equivalent terms shall refer to GLEIF.
+
+"User", "You", "your" or equivalent terms refer to any user of the Access Service.
+II. ACCESS SERVICE
+
+    The Access Service enables Users to look-up and/or download individual LEIs and/or related LE-RD and/or the entire set or a subset of LEIs and/or pertaining LE-RD from the Global LEI Repository.
+    The Access Service on the website http(s)://www.gleif.org is provided for free.
+    The data available through the Access Service are provided under the CC0 licence, see CC0 1.0 Universal (CC0 1.0).
+    In order to protect the GLEIS and the fundamental principles underlying it as set out in the Governance Principles of the GLEIS, in particular in the event of any use of the Access Service which is contrary to, or threatens to undermine, those fundamental principles or the public benefit for which LEIs and LE-RD are provided, we do have to reserve the right to suspend or modify the Access Service or any of the Terms of Use.
+    The technical requirements you have to observe in order to be able to use the Access Service are described on General Information.
+
+III. SERVICE LEVEL
+
+We do not guarantee that the website http(s)://www.gleif.org and the Access Service will function and be available without interruptions or errors. In particular, their operation may be interrupted due to maintenance, updates or system or network failures. Unplanned interruptions will be dealt with on a best effort basis. Service windows are – whenever possible – announced in due time on General Information.
+IV. CONDITIONS OF USE
+
+    By using our Access Service, you agree with the following terms:
+    (a) You acknowledge that you do not have, and will not acquire, any intellectual property or other proprietary rights in the LEIs and LE-RD as provided by the Access Service, and that you do not, and will not, claim such rights.
+    (b) You agree that you access LEIs and/or LE-RD on http(s)://www.gleif.org only by way of using the Access Service, and that you refrain from trying to obtain access to our Global LEI Repository or any other of our files or databases other than through using the Access Service as offered by us and, in particular, that you refrain from trying to circumvent technical restrictions or infecting the Global LEI Repository with malware of any kind.
+    (c) If you wish to use the GLEIF Trademark and Logo, which is a registered trademark, please contact GLEIF at the address indicated on http(s)://www.gleif.org.
+    You agree that you shall refrain from creating, in whatever way, the impression that, data and/or services, except the original LEI and LE-RD downloaded by you through the Access Service, are provided or supported or authorized or granted or otherwise associated by or with GLEIF.
+    You further agree to refrain from any actions or statements which may mislead the public and/or your customers to believe that any products or services provided by you, even if LEIs and LE-RD may be a part of such product or service, are services or products of GLEIF or any LOU, or that you are part of, or in a special relationship to, GLEIF and/or the GLEIS and/or any LOU.
+    You agree that GLEIF may take any appropriate steps, including but not limited to court action and to preliminary injunctions, if you do not comply with these Terms of Use, and that you are liable to a payment of liquidated damages in the amount of CHF 100'000 for any single case of non-compliance.
+
+V. DISCLAIMER OF WARRANTIES AND WAIVER OF LIABILITY
+
+    THE LEIS AND THE LE-RD MADE AVAILABLE TO YOU THROUGH THE ACCESS SERVICE ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. WE MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, THERETO. YOU EXPRESSLY AGREE THAT ANY USE THEREOF IS AT YOUR SOLE RISK.
+    TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, WE DISCLAIM REGARDING LEIS AND LE-RD ALL WARRANTIES, EXPRESS OR IMPLIED, AND LIABILITY, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WE WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND (INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE AND CONSEQUENTIAL DAMAGES) ARISING FROM THE USE OF THE ACCESS SERVICE OR THE LEIS AND LE-RD.
+    IN PARTICULAR, WITHOUT LIMITATION, YOU RECOGNIZE THAT THE ISSUANCE OF LEI AND COLLECTION OF LE-RD IS BASED ON APPLICATIONS AND INFORMATION PROVIDED BY THIRD PARTIES. WE CANNOT AND DO NOT REPRESENT OR WARRANT THAT SUCH INFORMATION IS ACCURATE, CORRECT, UP-TO-DATE OR THAT A CERTAIN LEI IS THE ONLY LEI ISSUED FOR A CERTAIN LEGAL ENTITY.
+    IN PARTICULAR, WITHOUT LIMITATION, WE DISCLAIM ALL LIABILITY FOR DAMAGES CAUSED BY ANY INTERRUPTIONS OR ERRORS IN THE FUNCTIONING OF THE ACCESS SERVICE OR THE WEBSITE http(s)://www.gleif.org. FURTHERMORE, WE DISCLAIM ALL LIABILITY FOR ANY MALFUNCTIONING, IMPOSSIBILITY OF ACCESS, OR POOR USE CONDITIONS OF THE SERVICES OR THE WEBSITE DUE TO INAPPROPRIATE EQUIPMENT, DISTURBANCES RELATED TO INTERNET SERVICE PROVIDERS, TO THE SATURATION OF THE INTERNET NETWORK, AND FOR ANY OTHER REASON. FURTHERMORE, WE DO NOT WARRANT THAT THE SERVICES, INFORMATION AND CONTENTS INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICES OR THE WEBSITE http(s)://www.gleif.org ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+    THE RESERVATIONS OF THE LICENCE (SEE SECTION IV) APPLY.
+
+VI. APPLICABLE LAW AND JURISDICTION
+
+    These Terms of Use, and your use of the Access Service, shall in all respects be governed by, and construed and interpreted in accordance with, the substantive laws of Switzerland without regard to Switzerland's conflict of law rules.
+    The Parties submit to the exclusive jurisdiction of the competent courts in Basel, Switzerland, for all disputes arising out of, or in connection with, these Terms of Use.
