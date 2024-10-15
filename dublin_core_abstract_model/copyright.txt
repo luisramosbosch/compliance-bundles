@@ -1,0 +1,59 @@
+Copyright © 1995-2014 DCMI (Dublin Core™ Metadata Initiative), All Rights Reserved
+
+Dublin Core™ Metadata Initiative (DCMI) web site pages may contain other proprietary notices and copyright information, the terms of which must be observed and followed. Specific notices do exist for DCMI documents and software. Please see our Intellectual Property FAQ for common questions about using materials from our site.
+
+Notice and Disclaimers
+
+    DCMI is a project of the Association for Information Science and technology, a U.S. 501(c)(3) nonprofit under the U.S. Internal Revenue Code, and all rights and limitations set out below pertain to ASIS&T as well as DCMI.
+    Unless otherwise noted, all materials contained in this Site are copyrighted and may not be used except as provided in these terms and conditions or in the copyright notice (documents and software) or other proprietary notice provided with the relevant materials.
+    The materials contained in the Site may be downloaded or copied provided that ALL copies retain the copyright and any other proprietary notices contained on the materials. No material may be modified, edited or taken out of context such that its use creates a false or misleading statement or impression as the positions, statements or actions of DCMI.
+    Any person is hereby authorized, without fee, to view, use, reproduce, and distribute all documents and files solely for informational purposes in the creation of products supporting the Dublin Core™ Metadata Standards, subject to the Terms and Conditions herein.
+    No license is granted to "mirror" the DCMI website where a fee is charged for access to the "mirror" site.
+    The name and trademarks of copyright holders may NOT be used in advertising or publicity pertaining to the Web site, its content, specifications, or software without specific, written prior permission. Title to copyright in Web site documents will at all times remain with copyright holders. Use of DCMI trademarks and service marks is covered by the DCMI Trademark and Servicemark License.
+
+DCMI and Non-DCMI Trademarks
+
+"Dublin Core" is a protected under common law trademark of the Dublin Core™ Metadata Initiative with global recognition.
+
+The trademarks, logos, and service marks not owned on behalf of DCMI and that are displayed on the Site are the registered and unregistered marks of their respective owners. No rights are granted by DCMI to use such marks, whether by implication, estoppel, or otherwise.
+
+"METADATA" is a trademark of the Metadata Company. DCMI uses the term "metadata" in a descriptive sense, meaning "data about data". DCMI is not in any way affiliated with the Metadata Company.
+
+Legal Disclaimers
+
+    DCMI has not reviewed any or all of the web sites linked to this Site and is not responsible for the content of any off-site pages or any other web sites linked to this Site. Please understand that any non-DCMI web site is independent from DCMI, and DCMI has no control over the content on that web site. In addition, a link to a non-DCMI web site does not mean that DCMI endorses or accepts any responsibility for the content, or the use, of such site. It is the user's responsibility to take precautions to ensure that whatever is selected is free of such items as viruses, worms, Trojan horses and other items of a destructive nature.
+    Information of this Site may contain technical inaccuracies or typographical errors. Information may be changed or updated without notice. DCMI may make improvements and/or changes in the materials contained in or described on this site at any time without notice. DCMI may also make changes in these Terms and Conditions without notice. User is bound by such revisions and should therefore periodically visit this page to review the then current Terms and Conditions.
+    Limitation on Warranties: ALL MATERIALS ON THE DCMI SITE ARE PROVIDED "AS IS." DCMI AND ASIS&T MAKE NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT. AS TO DOCUMENTS AND GRAPHICS PUBLISHED ON THIS SITE, DCMI MAKES NO REPRESENTATION OR WARRANTY THAT THE CONTENTS OF SUCH DOCUMENT OR GRAPHICS ARE FREE FROM ERROR OR SUITABLE FOR ANY PURPOSE; NOR THAT IMPLEMENTATION OF SUCH CONTENTS WILL NOT INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS. Please note that some jurisdictions may not allow the exclusion of implied warranties, so some of the above exclusions may not apply to you.
+    Limitation on Liability: IN NO EVENT WILL DCMI or ASIS&T BE LIABLE TO ANY PARTY FOR ANY DIRECT, INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES FOR ANY USE OF THIS SITE, OR ON ANY OTHER HYPERLINKED WEB SITE, INCLUDING, WITHOUT LIMITATION, ANY LOST PROFITS, BUSINESS INTERRUPTION, LOSS OF PROGRAMS OR OTHER DATA ON YOUR INFORMATION HANDLING SYSTEM OR OTHERWISE, EVEN IF DCMI OR ASIS&T IS EXPRESSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+DOCUMENT NOTICE
+
+Creative Commons License
+Unless indicated otherwise, DCMI documents are licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+(https://creativecommons.org/licenses/by/4.0/legalcode.en)
+
+You are required to include the following on ALL copies of the document, or portions thereof, that you include:
+
+    The URL to the original DCMI document. It is advisable to use a timestamped URL if it is available, e.g. rather refer to http://dublincore.org/specifications/dublin-core/dcmi-terms/2010-10-11/ than to http://dublincore.org/specifications/dublin-core/dcmi-terms/.
+    If it exists, the Date Issued and Document Status of the DCMI document.
+    The pre-existing copyright notice of the original author, or if it doesn't exist, a notice of the form (hypertext is preferred, but a textual representation is permitted) "Copyright © [date of document] Dublin Core™ Metadata Initiative. http://dublincore.org/about/copyright/
+    Mention of the CC licence the work is under, i.e. https://creativecommons.org/licenses/by/4.0/
+    If you are making a derivative work or adaptation, in addition to the above, you need to identify that your work is a derivative work i.e., "This is a Finnish translation of the [original work] by [author]."
+
+DCMI DOCUMENTS ARE PROVIDED "AS IS," AND COPYRIGHT HOLDERS MAKE NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR TITLE; THAT THE CONTENTS OF THE DOCUMENT ARE SUITABLE FOR ANY PURPOSE; THAT THE IMPLEMENTATION OF SUCH CONTENTS WILL NOT INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
+
+COPYRIGHT HOLDERS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF ANY USE OF THE DOCUMENT OR THE PERFORMANCE OR IMPLEMENTATION OF THE CONTENTS THEREOF.
+
+The name and trademarks of copyright holders may NOT be used in advertising or publicity pertaining to the document or its contents without specific, written prior permission. Title to copyright will at all times remain with the copyright holders.
+
+SCHEMA USE NOTICE
+
+Creative Commons License
+Unless indicated otherwise, RDF and XML schemas that are made available on the DCMI Web site (see http://dublincore/schemas/) are licensed under a Creative Commons Attribution 4.0 International License.
+
+You must include the following notice in the software and its documentation:
+
+Portions of this software may use (XML ¦ RDF) schemas Copyright © 2011 DCMI, the Dublin Core™ Metadata Initiative. These are licensed under the Creative Commons 4.0 Attribution license.
+
+In the notice, select the type of schema (XML or RDF) that is appropriate. Whenever possible you should include links to DCMI (http://dublincore.org/) and to the license (https://creativecommons.org/licenses/by/4.0/) as indicated in the notice above.
