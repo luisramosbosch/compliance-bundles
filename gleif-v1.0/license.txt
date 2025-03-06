@@ -1,9 +1,4 @@
-LEI Data Terms of Use
-
-
-of the
-
-Global Legal Entity Identifier Foundation (GLEIF),
+LEI Data Terms of Use of the Global Legal Entity Identifier Foundation (GLEIF),
 St. Alban-Vorstadt 12, 4052 Basel, Switzerland
  regarding the look-up and download of LEIs and LE-RD from this website by anyone.
 INTRODUCTION
